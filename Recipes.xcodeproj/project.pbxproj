@@ -23,6 +23,8 @@
 		4358540827EA2E44005FCD74 /* DataService.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4358540627EA2E44005FCD74 /* DataService.swift */; };
 		4358540A27EA62A3005FCD74 /* RecipeDetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4358540927EA62A3005FCD74 /* RecipeDetailView.swift */; };
 		4358540B27EA62A3005FCD74 /* RecipeDetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4358540927EA62A3005FCD74 /* RecipeDetailView.swift */; };
+		4364D6A527EF42430056353C /* RecipeTabView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4364D6A427EF42430056353C /* RecipeTabView.swift */; };
+		4364D6A627EF42430056353C /* RecipeTabView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4364D6A427EF42430056353C /* RecipeTabView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -37,6 +39,7 @@
 		4358540327EA2B96005FCD74 /* RecipeModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RecipeModel.swift; sourceTree = "<group>"; };
 		4358540627EA2E44005FCD74 /* DataService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DataService.swift; sourceTree = "<group>"; };
 		4358540927EA62A3005FCD74 /* RecipeDetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RecipeDetailView.swift; sourceTree = "<group>"; };
+		4364D6A427EF42430056353C /* RecipeTabView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RecipeTabView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -118,6 +121,7 @@
 			children = (
 				435853DB27EA2871005FCD74 /* RecipeListView.swift */,
 				4358540927EA62A3005FCD74 /* RecipeDetailView.swift */,
+				4364D6A427EF42430056353C /* RecipeTabView.swift */,
 			);
 			path = View;
 			sourceTree = "<group>";
@@ -244,6 +248,7 @@
 				435853EC27EA2873005FCD74 /* RecipeListView.swift in Sources */,
 				435853EA27EA2873005FCD74 /* RecipesApp.swift in Sources */,
 				4358540727EA2E44005FCD74 /* DataService.swift in Sources */,
+				4364D6A527EF42430056353C /* RecipeTabView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -257,6 +262,7 @@
 				435853ED27EA2873005FCD74 /* RecipeListView.swift in Sources */,
 				435853EB27EA2873005FCD74 /* RecipesApp.swift in Sources */,
 				4358540827EA2E44005FCD74 /* DataService.swift in Sources */,
+				4364D6A627EF42430056353C /* RecipeTabView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
